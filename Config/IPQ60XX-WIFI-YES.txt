@@ -20,3 +20,8 @@ CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_zn_m2=y
 
 
 CONFIG_PACKAGE_luci-app-cpufreq=y
+#有USB
+CONFIG_PACKAGE_luci-app-aria2=y
+CONFIG_PACKAGE_luci-app-diskman=y
+CONFIG_PACKAGE_luci-app-hd-idle=y
+CONFIG_PACKAGE_luci-app-usb-printer=y
