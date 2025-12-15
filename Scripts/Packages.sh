@@ -57,6 +57,7 @@ UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "master" "pkg"
 #UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
 UPDATE_PACKAGE "passwall2" "xiaorouji/openwrt-passwall2" "main" "pkg"
+UPDATE_PACKAGE "wrtbwmon" "brvphoenix/luci-app-wrtbwmon" "main" "master"
 
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
